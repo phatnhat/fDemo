@@ -1,0 +1,12 @@
+FLASK_APP=main.py
+FLASK_DEBUG=1
+
+MAIL_SERVER=smtp.googlemail.com
+MAIL_PORT=587
+MAIL_USE_TLS=1
+MAIL_USERNAME=nhatphay722@gmail.com
+MAIL_PASSWORD=nhatphat0
+
+MS_TRANSLATOR_KEY=47aab7f9a1ec4598b02d8786c6df56a4
+
+ELASTICSEARCH_URL=http://elastic:qRwUxOexns3wHYnwJ0Kh@localhost:9200/
